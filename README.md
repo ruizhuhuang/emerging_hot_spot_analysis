@@ -1,1 +1,1 @@
-# R Implementataion of Emerging Hot Spot Analysis
+# R Implementation of Emerging Hot Spot Analysis
